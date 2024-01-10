@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoba1&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoba1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolfoba1" alt="rodolfoba1" /></a> </p>
-
 - 👯 I’m looking to collaborate on **projects**
+
+- 📫 How to reach me **awirodolfo@gmail.com**
 
 - ⚡ Fun fact **I like learning new stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/rodolfo de leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodolfo de leon" height="30" width="40" /></a>
 <a href="https://instagram.com/@iamchoffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iamchoffo" height="30" width="40" /></a>
 </p>
 
