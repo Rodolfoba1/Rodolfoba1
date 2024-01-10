@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Chivalan</h1>
 <h3 align="center">A passionate system engineering student from Guatemala</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Fillustrations%2F106905%2Fweb-developer&psig=AOvVaw0v6hcqV6-bHPyTT_IkxDmy&ust=1704947637412000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj45Ij_0YMDFQAAAAAdAAAAABAH">
+<img align="right" alt="coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoba1&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoba1" /> </p>
 <>
