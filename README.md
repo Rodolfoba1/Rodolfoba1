@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Chivalan</h1>
 <h3 align="center">A passionate system engineering student from Guatemala</h3>
-<img align="right" alt="coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png">
+<img align="right" alt="coding" width="200" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png">
 
 - 👯 I’m looking to collaborate on **projects**
 
