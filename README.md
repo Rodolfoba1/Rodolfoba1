@@ -2,8 +2,6 @@
 <h3 align="center">A passionate system engineering student from Guatemala</h3>
 <img align="right" alt="coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoba1&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoba1" /> </p>
-<>
 - 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **awirodolfo@gmail.com**
