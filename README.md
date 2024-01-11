@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Chivalan</h1>
 <h3 align="center">A passionate system engineering student from Guatemala</h3>
-<img align="right" alt="coding" width="200" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png">
 
 - 👯 I’m looking to collaborate on **projects**
 
@@ -10,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/rodolfo de leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodolfo de leon" height="30" width="40" /></a>
 <a href="https://instagram.com/@iamchoffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iamchoffo" height="30" width="40" /></a>
 </p>
 
