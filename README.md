@@ -1,66 +1,15 @@
-<style>
-  body {
-    background-color: #1f1f1f; /* Fondo negro */
-    color: white; /* Texto blanco */
-    font-family: 'Arial', sans-serif; /* Fuente */
-    line-height: 1.6;
-  }
+# 💫 About Me:
+Fun fact
 
-  h1, h3 {
-    color: #66ff66; /* Color verde claro */
-    text-align: center;
-  }
 
-  ul {
-    list-style: none;
-    padding: 0;
-  }
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rodolfo de Leon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamchoffo) 
 
-  li {
-    margin-bottom: 10px;
-  }
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rodolfoba1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rodolfoba1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfoba1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  a {
-    color: #66ff66; /* Color verde claro */
-    text-decoration: none;
-  }
-
-  img {
-    filter: invert(1); /* Invertir colores de la imagen */
-  }
-
-  .connect-with-me, .languages-tools, .github-stats {
-    background-color: #1f1f1f; /* Fondo negro */
-    border: 1px solid #66ff66; /* Borde verde claro */
-    padding: 20px;
-    margin: 10px 0;
-    border-radius: 10px;
-  }
-</style>
-
-<!-- Resto del contenido -->
-
-<h1 align="center">Hi 👋, I'm Rodolfo Chivalan</h1>
-<h3 align="center">A passionate system engineering student from Guatemala</h3>
-
-<ul>
-  <li>👯 I’m looking to collaborate on <strong>projects</strong></li>
-  <li>📫 How to reach me <strong><a href="mailto:awirodolfo@gmail.com">awirodolfo@gmail.com</a></strong></li>
-  <li>⚡ Fun fact <strong>I like learning new stuff</strong></li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" class="connect-with-me">
-  <a href="https://instagram.com/@iamchoffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iamchoffo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" class="languages-tools">
-  <!-- Tu lista de lenguajes y herramientas aquí -->
-</div>
-
-<div align="center" class="github-stats">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfoba1&show_icons=true&locale=en&layout=compact" alt="rodolfoba1" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfoba1&show_icons=true&locale=en" alt="rodolfoba1" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfoba1&" alt="rodolfoba1" /></p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
