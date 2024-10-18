@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- GIF alojado en tu repositorio GitHub Pages -->
-  <img src="https://github.com/Rodolfoba1/Rodolfoba1/blob/master/asset/gif/about.gif" alt="Coding GIF" width="400"/>
+  <img src="https://github.com/Rodolfoba1/Rodolfoba1/blob/master/asset/gif/about.gif" alt="Coding GIF" width="800"/>
 </p>
 
 <p align="center">
