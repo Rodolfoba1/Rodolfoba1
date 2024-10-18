@@ -6,7 +6,8 @@
 <h3 align="center">Un apasionado estudiante de ingeniería de sistemas de Guatemala 🇬🇹</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+  <!-- Cambia esta imagen por un GIF de programación -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
 <p align="center">
