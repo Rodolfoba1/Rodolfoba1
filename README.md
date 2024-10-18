@@ -3,11 +3,9 @@
   Hola, soy Rodolfo Chivalan
 </h1>
 
-<h3 align="center">Un apasionado estudiante de ingeniería de sistemas de Guatemala 🇬🇹</h3>
-
 <p align="center">
-  <!-- Cambia esta imagen por un GIF de programación -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
+  <!-- GIF alojado en tu repositorio GitHub Pages -->
+  <img src="https://github.com/Rodolfoba1/Rodolfoba1/blob/master/asset/gif/about.gif" alt="Coding GIF" width="400"/>
 </p>
 
 <p align="center">
