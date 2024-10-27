@@ -3,7 +3,7 @@
   Hola, soy Rodolfo Chivalan
 </h1>
 
-<h3 align="center">Un apasionado estudiante de ingeniería de sistemas de Guatemala 🇬🇹</h3>
+<h3 align="center">Estudiante de Ingeniería en Informatica y Sistemas de Guatemala 🇬🇹</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **proyectos emocionantes**
+- 🔭 Actualmente estoy trabajando en **proyectos**
 - 🌱 Siempre estoy aprendiendo **nuevas tecnologías**
 - 👯 Busco colaborar en **proyectos innovadores**
 - 📫 Contáctame en **awirodolfo@gmail.com**
@@ -44,7 +44,7 @@
 #### Back-End Technologies:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mongodb,mysql,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mongodb,mysql,postgres,git" />
 </p>
 
 ---
