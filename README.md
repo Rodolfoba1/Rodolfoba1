@@ -38,13 +38,13 @@
 #### Front-End Technologies:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,figma" />
 </p>
 
 #### Back-End Technologies:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mongodb,mysql,postgres,redis,git" />
 </p>
 
 ---
