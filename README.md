@@ -8,6 +8,6 @@
 
 <p>
   <a>
-    <img src="https://img.icons8.com/color/48/000000/github.png" width="30px" style="vertical-align:middle; margin-right:5px"/> font=Fira+Code&size=22&pause=1000&color=1E90FF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Nicole!;+Developer+and+Designer)
+    <img src="https://img.icons8.com/color/48/000000/github.png" width="30px" style="vertical-align:middle; margin-right:5px"/>
   </a>
 </p>
