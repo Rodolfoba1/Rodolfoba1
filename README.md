@@ -10,7 +10,7 @@
  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   &#FF1493FF;
   <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#FF1493FF;&#FF1493FF;&#FF1493FF;&#FF1493FF;&#FF1493FF;
   <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
