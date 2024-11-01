@@ -7,7 +7,6 @@
 </p>
 
 <p align="center>
-  <a>
-    <img src="https://img.icons8.com/color/48/000000/github.png" width="30px" style="vertical-align:middle; margin-right:5px"/>
-  </a>
+<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
