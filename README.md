@@ -1,70 +1,115 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;¡Soy+[TuNombre]!;¡Gracias+por+visitarme!+❤️" />
-</h1>
-
-<hr/>
-
-<h4 align="center">🔭 Actualmente estoy trabajando en proyectos web Full Stack</h4>
-<h4 align="center">🌱 Estoy aprendiendo AWS y DevOps</h4>
-<h4 align="center">💬 Pregúntame sobre React, Node.js, MongoDB... ¡o lo que quieras! 😊</h4>
-
-<br/>
-
 <div align="center">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tuportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
+  <p>
+    <a href="https://www.youtube.com/c/TuCanal">
+      <img alt="youtube subscribers" title="Suscríbete a mi YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+    </a> 
+    <a href="https://www.youtube.com/c/TuCanal">
+      <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+    </a> 
+    <a href="https://github.com/TuUsuario?tab=followers">
+      <img alt="followers" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/TuUsuario?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+  </p>
+
+  <!-- Banner de Presentación (Opcional) -->
+  <img src="https://github.com/TuUsuario/TuUsuario/blob/main/banner.gif" alt="Presentación">
 </div>
 
-<hr/>
+### 👨‍💻 Acerca de mí
 
-<h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+- 🔭 Actualmente trabajo en [Nombre del Proyecto](enlace)
+- 📝 Regularmente escribo tutoriales en [tu-blog.com](enlace)
+- 🌱 Actualmente estoy aprendiendo [Tecnología]
+- 💬 Pregúntame sobre **tecnología, programación, y desarrollo web**
+- 📫 Cómo contactarme: [@TuTwitter](enlace)
+
+### 🔥 Estadísticas
+
+<p align="center">
+  <a href="https://github.com/TuUsuario">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tu racha en DenverCoder1" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+### 📊 Mis Mejores Repositorios
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/TuUsuario/Proyecto1" title="Proyecto1">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=Proyecto1&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/TuUsuario/Proyecto2" title="Proyecto2">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=Proyecto2&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
-<br/>
-<hr/>
+### 🛠️ Mis Herramientas Favoritas
 
-<div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+#### 👨‍💻 Lenguajes de Programación
 
-<hr/>
+<p>
+    <a href="https://github.com/search?q=user%3ATuUsuario+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ATuUsuario+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ATuUsuario+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+</p>
 
-<h2 align="center">⚡ Estadísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TU-USUARIO&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TU-USUARIO&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+#### 🧰 Frameworks y Bibliotecas
+
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+</p>
+
+#### 💻 Software y Herramientas
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+</p>
+
+### 📺 Últimos Videos de YouTube
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- Las tarjetas de YouTube se generarían automáticamente aquí -->
+<!-- END YOUTUBE-CARDS -->
+
+### 📘 Mis Últimos Artículos del Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Los posts del blog se generarían automáticamente aquí -->
+<!-- BLOG-POST-LIST:END -->
+
+### 🔗 Conéctate conmigo
+
+<p align="center">
+  <a href="https://twitter.com/TuUsuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/TuUsuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://dev.to/TuUsuario">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+</p>
+
+### 💬 Cita del Día
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=monokai&animation=grow_out_in&layout=default&font=default)
+
+---
+
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TU-USUARIO&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/TU-USUARIO' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Gracias+por+visitarme!+👋;¡Vuelve+pronto!+❤️" />
-</h1>
+  <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=TuUsuario&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <br/>
+  <b>Nota:</b> Las estadísticas de lenguajes principales son solo una métrica de los lenguajes que aparecen en mi código público.
+</details>
