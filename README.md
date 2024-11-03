@@ -17,5 +17,5 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="120px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF1493?style=flat&logo=linkedin&logoColor=white"/>
 <img width="120px" alt="X" title="X" src="https://img.shields.io/badge/X-FF1493?style=flat&logo=x&logoColor=white"/>
-<img width="120px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-FF1493?style=plastic&logo=gmail&logoColor=white"/>
+<img width="120px" src="https://img.shields.io/badge/Gmail-FF1493?style=plastic&logo=gmail&logoColor=white"/>
 </p>
