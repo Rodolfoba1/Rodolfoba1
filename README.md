@@ -1,16 +1,18 @@
+<!--header-->
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd700&height=120&section=header&animation=twinkling" /></a>
 </p>
 
+<!--NAME-->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&repeat=false&width=435&lines=Rodolfo+Chivalan" alt="Typing SVG" />
   </a>
 </p>
 
+<!--BIO INFO-->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=System+Engineering+Student;+Currently+working+on+exciting+projects;Looking+to+collaborate+on+innovative+projects;Love+learning+new+things" alt="Typing SVG" /></a>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=System+Engineering+Student;+Currently+working+on+projects;Love+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -23,6 +25,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!--Tech used-->
 <h3 align="center">🛠 Tech Stack </h3> 
 <h4 align="center">Front-End Technologies:</h4>
 <p align="center">
@@ -34,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,mysql,postgres,git" />
 </p>
 
-
+<!--Tech statistics-->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodolfoba1&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -48,6 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfoba1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!--footer-->
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd700&height=100&section=footer" />
 </p>
