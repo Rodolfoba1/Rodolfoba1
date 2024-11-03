@@ -32,12 +32,12 @@
 
 <!--Tech used-->
 <h2 align="center" id="tech-stack-">💻Tech Stack <img width="20px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h2>
-<h3 align="center">Front-End Technologies:</h3>
+<h3 align="center">Frontend Technologies:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,figma" />
 </p>
 
-<h3 align="center"> Back-End Technologies: </h3>
+<h3 align="center"> Backend Technologies: </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,mysql,postgres,git" />
 </p>
