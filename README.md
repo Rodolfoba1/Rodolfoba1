@@ -28,14 +28,14 @@
   </a>
 </p>
 
+<h3 align="center">🛠 Tech Stack </h3> 
+<h4 align="center">Front-End Technologies:</h4>
 <p align="center">
-  <h3>🛠 Tech Stack </h3> 
-  <h4>Front-End Technologies:</h4>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
 </p>
 
+<h4 align="center"> Back-End Technologies: </h4>
 <p align="center">
-  <h3> Back-End Technologies: </h3>
   <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
 </p>
 
