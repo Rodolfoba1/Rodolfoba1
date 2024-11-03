@@ -28,20 +28,19 @@
   </a>
 </p>
 
-<h3 align="center">🛠 Tech Stack </h3> 
-<h4 align="center">Front-End Technologies:</h4>
+<h3 align="left">🛠 Tech Stack </h3> 
+<h4 align="left">Front-End Technologies:</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
 </p>
 
-<h4 align="center"> Back-End Technologies: </h4>
+<h4 align="left"> Back-End Technologies: </h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
 </p>
 
 
-<h4 align="center">📊 GitHub Stats</h4>
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodolfoba1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
