@@ -55,10 +55,9 @@
 </p>
 
 <!--Visitors-->
-<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> 
+<p><img src="https://komarev.com/ghpvc/?username=Rodolfoba1;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> 
 </p>
 
-<p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
 <!--footer-->
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd700&height=100&section=footer" />
