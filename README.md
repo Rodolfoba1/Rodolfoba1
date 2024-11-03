@@ -27,7 +27,7 @@
 
 <!--Portafolio-->
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-gold?style=for-the-badge&logo=github" alt="Portfolio"></a>
 </p>
 
 <!--Tech used-->
