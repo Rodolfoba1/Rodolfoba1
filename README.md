@@ -25,6 +25,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!--Portafolio-->
+<a href=""><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https%3A%2F%2FCodewhiteweb.cf"></a>
+
 <!--Tech used-->
 <h3 align="center" id="tech-stack-">💻Tech Stack <img width="20px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h3>
 <h4 align="center">Front-End Technologies:</h4>
@@ -52,7 +55,8 @@
 </p>
 
 <!--Visitors-->
-<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> <a href="https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec"><img src="https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge" alt="wakatime" /></a></p>
+<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> 
+</p>
 
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
 <!--footer-->
