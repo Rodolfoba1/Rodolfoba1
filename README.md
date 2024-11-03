@@ -15,9 +15,9 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/>
+<img width="120px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" alt="X" title="X" src="https://simpleicons.org/icons/x.svg"/>
+<img width="120px" alt="X" title="X" src="https://img.shields.io/badge/X-FF1493?style=for-the-badge&logo=x&logoColor=white"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" alt="Gmail" title="Gmail" src="https://simpleicons.org/icons/gmail.svg"/>
+<img width="120px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
