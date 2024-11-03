@@ -27,12 +27,12 @@
 <h3 align="center">🛠 Tech Stack </h3> 
 <h4 align="center">Front-End Technologies:</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,materialui,tailwind,figma" />
 </p>
 
 <h4 align="center"> Back-End Technologies: </h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,mysql,postgres,redis,git" />
 </p>
 
 
