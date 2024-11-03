@@ -29,14 +29,14 @@
 </p>
 
 <p align="center">
-  🛠 Tech Stack  
-  Front-End Technologies:
+  <h3>🛠 Tech Stack </h3> 
+  <h4>Front-End Technologies:</h4>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
-
-  Back-End Technologies:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
 </p>
+
+<p align="center">
+  <h3> Back-End Technologies: </h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
 </p>
 
 
