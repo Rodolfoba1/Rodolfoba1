@@ -26,7 +26,7 @@
 </p>
 
 <!--Tech used-->
-<h3 id="tech-stack-">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h3>
+<h3 id="tech-stack-">💻Tech Stack <img width="10px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h3>
 <h4 align="center">Front-End Technologies:</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,figma" />
