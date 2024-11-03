@@ -15,5 +15,4 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
 </p>
