@@ -31,19 +31,19 @@
 </p>
 
 <!--Tech used-->
-<h3 align="center" id="tech-stack-">💻Tech Stack <img width="20px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h3>
-<h4 align="center">Front-End Technologies:</h4>
+<h2 align="center" id="tech-stack-">💻Tech Stack <img width="20px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h2>
+<h3 align="center">Front-End Technologies:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,figma" />
 </p>
 
-<h4 align="center"> Back-End Technologies: </h4>
+<h3 align="center"> Back-End Technologies: </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,mysql,postgres,git" />
 </p>
 
 <!--Tech statistics-->
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodolfoba1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
