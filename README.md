@@ -18,7 +18,7 @@
 </p>
 
 
-📊 GitHub Stats
+<h2 aling="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodolfoba1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
