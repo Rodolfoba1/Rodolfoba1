@@ -1,30 +1,92 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=header" /></p>
+import React from 'react';
+import { Github, Twitter, Linkedin } from 'lucide-react';
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&repeat=false&width=435&lines=Rodolfo+Chivalan" alt="Typing SVG" /></a>
-</p>
+const GithubProfile = () => {
+  return (
+    <div className="w-full max-w-4xl mx-auto text-center">
+      {/* Header Wave */}
+      <svg viewBox="0 0 1200 120" className="w-full h-24">
+        <path
+          d="M0,0 L1200,0 L1200,120 Q900,80 600,120 Q300,160 0,120 Z"
+          fill="url(#gradient)"
+        >
+          <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" style={{ stopColor: '#FF1493' }} />
+              <stop offset="100%" style={{ stopColor: '#FF69B4' }} />
+            </linearGradient>
+          </defs>
+        </path>
+      </svg>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=System+Engineering+Student" alt="Typing SVG" /></a>
-</p>
+      {/* Name Section */}
+      <div className="text-4xl font-bold mb-4 bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text">
+        Rodolfo Chivalan
+      </div>
 
-<p align="center">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;  
-  <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+      {/* Title Section */}
+      <div className="text-2xl mb-8 text-pink-500">
+        System Engineering Student
+      </div>
 
+      {/* Social Icons */}
+      <div className="flex justify-center gap-8 mb-8">
+        <Linkedin size={32} className="text-pink-500 hover:text-pink-600 cursor-pointer" />
+        <Twitter size={32} className="text-pink-500 hover:text-pink-600 cursor-pointer" />
+        <Github size={32} className="text-pink-500 hover:text-pink-600 cursor-pointer" />
+      </div>
 
-<h2 aling="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodolfoba1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolfoba1&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfoba1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+      {/* Stats Section */}
+      <h2 className="text-2xl font-bold mb-4">📊 GitHub Stats</h2>
+      
+      {/* GitHub Stats Cards */}
+      <div className="space-y-4">
+        {/* Main Stats Card */}
+        <div className="bg-gray-900 rounded-lg p-4 mx-auto max-w-2xl">
+          <div className="grid grid-cols-3 gap-4">
+            <div className="text-center">
+              <div className="text-2xl font-bold text-pink-500">150+</div>
+              <div className="text-sm text-gray-400">Contributions</div>
+            </div>
+            <div className="text-center">
+              <div className="text-2xl font-bold text-pink-500">10+</div>
+              <div className="text-sm text-gray-400">Repositories</div>
+            </div>
+            <div className="text-center">
+              <div className="text-2xl font-bold text-pink-500">5+</div>
+              <div className="text-sm text-gray-400">Projects</div>
+            </div>
+          </div>
+        </div>
+
+        {/* Streak Stats Card */}
+        <div className="bg-gray-900 rounded-lg p-4 mx-auto max-w-2xl">
+          <div className="h-4 w-full bg-gray-800 rounded">
+            <div className="h-full w-3/4 bg-gradient-to-r from-pink-500 to-purple-500 rounded"></div>
+          </div>
+          <div className="mt-2 text-sm text-gray-400">Current Streak: 7 days</div>
+        </div>
+
+        {/* Languages Card */}
+        <div className="bg-gray-900 rounded-lg p-4 mx-auto max-w-2xl">
+          <div className="grid grid-cols-2 gap-2">
+            <div className="text-sm text-gray-400">JavaScript</div>
+            <div className="h-2 bg-gray-800 rounded">
+              <div className="h-full w-3/4 bg-yellow-400 rounded"></div>
+            </div>
+            <div className="text-sm text-gray-400">Python</div>
+            <div className="h-2 bg-gray-800 rounded">
+              <div className="h-full w-1/2 bg-blue-500 rounded"></div>
+            </div>
+            <div className="text-sm text-gray-400">HTML/CSS</div>
+            <div className="h-2 bg-gray-800 rounded">
+              <div className="h-full w-2/3 bg-orange-500 rounded"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default GithubProfile;
