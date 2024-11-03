@@ -15,7 +15,9 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="120px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF1493?style=flat&logo=linkedin&logoColor=white"/>
-<img width="120px" alt="X" title="X" src="https://img.shields.io/badge/X-FF1493?style=flat&logo=x&logoColor=white"/>
-<img width="120px" src="https://img.shields.io/badge/Gmail-FF1493?style=plastic&logo=gmail&logoColor=white"/>
+ <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="32px" src="https://simpleicons.org/icons/gmail.svg" style="filter: invert(37%) sepia(74%) saturate(1615%) hue-rotate(308deg) brightness(101%) contrast(97%);"/>
 </p>
