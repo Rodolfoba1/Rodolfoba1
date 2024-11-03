@@ -15,4 +15,9 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="32px" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="32px" alt="X" title="X" src="https://simpleicons.org/icons/x.svg"/>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="32px" alt="Gmail" title="Gmail" src="https://simpleicons.org/icons/gmail.svg"/>
 </p>
