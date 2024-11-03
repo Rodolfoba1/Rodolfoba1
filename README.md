@@ -14,10 +14,16 @@
 <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
- <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  
+ <a href="https://linkedin.com/in/tuusuario">
+   <img width="32px" src="https://simpleicons.org/icons/linkedin.svg" style="filter: invert(41%) sepia(83%) saturate(7048%) hue-rotate(313deg) brightness(97%) contrast(97%);"/>
+ </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="32px" src="https://simpleicons.org/icons/gmail.svg" style="filter: invert(37%) sepia(74%) saturate(1615%) hue-rotate(308deg) brightness(101%) contrast(97%);"/>
+ <a href="https://twitter.com/tuusuario">
+   <img width="32px" src="https://simpleicons.org/icons/x.svg" style="filter: invert(41%) sepia(83%) saturate(7048%) hue-rotate(313deg) brightness(97%) contrast(97%);"/>
+ </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="mailto:tuemail@gmail.com">
+   <img width="32px" src="https://simpleicons.org/icons/gmail.svg" style="filter: invert(41%) sepia(83%) saturate(7048%) hue-rotate(313deg) brightness(97%) contrast(97%);"/>
+ </a>
 </p>
