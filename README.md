@@ -57,7 +57,8 @@
 </p>
 
 <!--Visitors-->
-<p><img src="https://komarev.com/ghpvc/?username=Rodolfoba1;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rodolfoba1&style=for-the-badge&label=Visitors+Count&color=brightgreen" alt="Profile_Views" />
 </p>
 
 <!--footer-->
