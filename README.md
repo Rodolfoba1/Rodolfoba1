@@ -15,4 +15,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </p>
