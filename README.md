@@ -28,6 +28,16 @@
   </a>
 </p>
 
+🛠 Tech Stack
+Front-End Technologies:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,materialui,tailwind,figma" />
+</p>
+Back-End Technologies:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,redis,git" />
+</p>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
