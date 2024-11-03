@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfoba1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!--Visitors-->
+<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;style=for-the-badge&amp;label=Visitors+Count&amp;color=brightgreen" alt="Profile_Views" /> <a href="https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec"><img src="https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge" alt="wakatime" /></a></p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
 <!--footer-->
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd700&height=100&section=footer" />
