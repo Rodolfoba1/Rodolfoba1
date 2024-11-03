@@ -49,6 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfoba1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rodolfoba1&color=blueviolet" alt="Profile views" />
+</p>
+
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd700&height=100&section=footer" />
 </p>
