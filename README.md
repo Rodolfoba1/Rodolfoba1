@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,ff69b4,ffff00&height=120&section=header&animation=twinkling" />
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
