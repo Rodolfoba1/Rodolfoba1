@@ -26,7 +26,7 @@
 </p>
 
 <!--Portafolio-->
-<a href=""><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https%3A%2F%2FCodewhiteweb.cf"></a>
+<a href=""><img src="https://img.shields.io/website?down_color"></a>
 
 <!--Tech used-->
 <h3 align="center" id="tech-stack-">💻Tech Stack <img width="20px" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h3>
