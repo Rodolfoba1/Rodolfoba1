@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
- <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-    
-<img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
-  
-<img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;  
+  <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
